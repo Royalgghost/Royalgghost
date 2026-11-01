@@ -22,7 +22,7 @@ Tools/DevOps  :: Git, Docker, Linux administration, Streamlit
 
 📬 Connect With Me
 
-💼 LinkedIn: Nouâmane Azzat
+💼 LinkedIn: [Nouâmane Azzat](https://www.linkedin.com/in/nou%C3%A2mane-azzat-394a0b330/)
 
 📧 Email: nouamaneazzat@gmail.com
 
